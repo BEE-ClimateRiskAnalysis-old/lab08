@@ -13,7 +13,7 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
     cd BEE4750/
     mkdir labs
     cd labs/
-    git clone https://github.com/ClimateRiskAnalysis/lab06.git
+    git clone https://github.com/ClimateRiskAnalysis/lab08.git
     ```
 
 ## Opening The Notebook
@@ -34,7 +34,7 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
       using IJulia
       notebook()
       ```
-      and you can navigate to and open `lab06.ipynb`.
+      and you can navigate to and open `lab08.ipynb`.
 
 ## Learning Objectives
 
